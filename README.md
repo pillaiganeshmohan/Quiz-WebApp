@@ -20,3 +20,9 @@ Welcome to the Quiz Web! This interactive web app is designed to test your knowl
 ![4](https://github.com/pillaiganeshmohan/Quiz-WebApp/assets/68379838/3c7fb44d-4664-459e-b5af-9a04228e20d1)
 
 ![5](https://github.com/pillaiganeshmohan/Quiz-WebApp/assets/68379838/6b71da27-efdc-4109-b6ea-830aab5909fb)
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the **Apache-2.0 License**. See the [LICENSE](./LICENSE) file for details.
